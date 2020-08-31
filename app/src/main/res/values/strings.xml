@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Workoutapp</string>
+    <string name="find_workout">new button</string>
+    <string-array name="workout_types">
+        <item>chest</item>
+        <item>bisepts</item>
+        <item>tricepts</item>
+        <item>shoulders</item>
+    </string-array>
+</resources>
